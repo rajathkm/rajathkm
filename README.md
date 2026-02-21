@@ -1,6 +1,6 @@
 # Hi, I'm Rajath 👋
 
-📍 **Bengaluru** | ⚡ **AI agent builder** | 💸 **Stablecoin infrastructure**
+📍 **Bengaluru** | ⚡ **AI agent dopamine chaser** | 💸 **Stablecoin infrastructure**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -9,7 +9,7 @@
 ![DeFi](https://img.shields.io/badge/-DeFi-7B3FE4?style=flat-square&logo=ethereum&logoColor=white)
 ![Stablecoins](https://img.shields.io/badge/-Stablecoins-2775CA?style=flat-square&logo=circle&logoColor=white)
 
-> Building stablecoin infrastructure and running a fully autonomous AI agent
+> Building stablecoin infrastructure and trying to run and spending more time maintaing a fully autonomous AI agent
 > stack on top of OpenClaw. When I'm not shipping payment rails, I'm
 > vibe-coding tools for my own workflows.
 
